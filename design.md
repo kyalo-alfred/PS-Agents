@@ -1,32 +1,3 @@
-# ICS 3202 Practical Exercise 3: Designing a Searching Agent
-
-**Course:** ICS 3202 Artificial Intelligence, Strathmore University
-**Task:** Self-driving trailer travelling between towns on Kenya's highway network
-**Group members:** `<Name 1 (Adm No)>`, `<Name 2 (Adm No)>`, `<Name 3 (Adm No)>`, `<Name 4 (Adm No)>`
-
----
-
-## Team Evidence
-
-Replace this section with a team photo (all faces visible) or keep the minutes below.
-
-**Minutes of group meeting**
-
-- Date and venue/platform: `<date, e.g. Google Meet>`
-- Attendees: `<all names>`
-- Absent: `<names or "none">`
-
-| Member | Contribution |
-|---|---|
-| `<Name 1>` | PEAS table and environment classification |
-| `<Name 2>` | Graph and Google Maps distances |
-| `<Name 3>` | Search tree and abstraction write-up |
-| `<Name 4>` | Uniform Cost Search table and final path |
-
-![Team photo](images/team-photo.jpg)
-
----
-
 ## Question 1: Designing the Agent
 
 ### 1.1 PEAS description
@@ -198,8 +169,4 @@ with a total path cost of **364 km** (using the distances in the table above).
 
 ---
 
-## References
-
-- Russell, S. and Norvig, P., *Artificial Intelligence: A Modern Approach*, chapters on intelligent agents and problem solving by searching.
-- Google Maps, driving distances between towns (accessed `<date>`).
-- ICS 3202 lecture notes on agents and search.
+## Team Evidence
