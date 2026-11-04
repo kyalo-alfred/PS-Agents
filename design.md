@@ -1,7 +1,7 @@
 # Members
-190513
-170603
-171533
+1. 190513
+2. 170603
+3. 171533
 
 
 ## Question 1: Designing the Agent
