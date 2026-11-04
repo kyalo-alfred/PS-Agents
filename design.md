@@ -1,3 +1,9 @@
+# Members
+190513
+170603
+171533
+
+
 ## Question 1: Designing the Agent
 
 ### 1.1 PEAS description
